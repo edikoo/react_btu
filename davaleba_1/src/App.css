@@ -1,0 +1,22 @@
+.mainBg {
+  background-color: #282c34;
+  min-height: 100vh;
+}
+.navLink{
+  color: white;
+}
+.carouselText{
+  color:black
+}
+
+.mgt-20{
+  margin-top: 20px;
+}
+
+.fullwidth{
+  width: 100%;
+}
+
+.error{
+  color: red;
+}
