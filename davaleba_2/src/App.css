@@ -44,7 +44,10 @@ th{
 }
 
 .city{
+  color: #337ab7;
   cursor: pointer;
+  text-decoration: underline;
+  font-weight: bold;
 }
 
 .green{
