@@ -11,7 +11,6 @@ function Items({itemsList, catList, selectedCategoryId})
         items.splice(index, 1);
         setitems([...items]);
     }
-
     
 
     if(selectedCategoryId === 0)

@@ -8,8 +8,8 @@ import Insert from './Includes/Insert';
 
 class App extends React.Component {
 
-  constructor () {
-    super();
+  constructor (props) {
+    super(props);
 
     this.state = {
       ProductList: [
